@@ -1,0 +1,11 @@
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\bin\Debug\uTube_tutorial_01.exe.config
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\bin\Debug\uTube_tutorial_01.exe
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\bin\Debug\uTube_tutorial_01.pdb
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.csproj.AssemblyReference.cache
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.Form1.resources
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.Properties.Resources.resources
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.csproj.GenerateResource.cache
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.csproj.CoreCompileInputs.cache
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.exe
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.pdb
+C:\Users\gomes\OneDrive\Desktop\sample\c#\uTube_tutorial_01\uTube_tutorial_01\obj\Debug\uTube_tutorial_01.exe.config
